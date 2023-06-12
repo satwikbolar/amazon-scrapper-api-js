@@ -9,3 +9,7 @@ This is an API to fetch details from AMAZON Shopping Website:
 To fetch product use URL:  https://amazon-scrapper-gzmn.onrender.com/product/B09WQY65HN?api_key='PUTAPIKEYHERE'
 
 Get API Key from : https://www.scraperapi.com/
+
+API Available on RAPID API PLATFORM : https://rapidapi.com/satwikvbolar23/api/amazon-scraper-api11
+![image](https://github.com/satwikbolar/amazon_scrapper/assets/82822150/2170c998-d8f6-4680-904a-cfde96594f15)
+
